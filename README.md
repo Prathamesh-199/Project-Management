@@ -1,8 +1,46 @@
-# React + Vite
+# Project Management Tool (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+The **Project Management Tool** is a web-based frontend application built using **React.js** to provide a modern and visually appealing user interface for project management. At this time this version focuses only on the graphical user interface (GUI) without backend integration. But in future the backend & its connection will be done.
 
-Currently, two official plugins are available:
+## Features
+-  **Home Page UI** – A visually appealing landing page
+-  **Navigation Bar** – Easy access to different sections
+-  **Dark Mode Support** – Enhances user experience
+-  **Modern Animations** – Built using Framer Motion for smooth transitions
+-  **Fully Responsive Design** – Works on all screen sizes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Framer Motion
+- **Tools & Libraries:** Vite, Lucide-React, React-Router
+
+## Folder Structure
+```plaintext
+Project-Management-Frontend/
+│── src/             # React.js Source Files
+│── public/          # Static Files
+│── package.json     # Dependencies & Scripts
+│── README.md        # Documentation
+```
+
+## Installation & Setup
+### 1) Install Dependencies
+```sh
+npm install
+```
+### 2) Start the Development Server
+```sh
+npm run dev
+```
+
+## Screenshots
+![Screenshot 2025-02-21 185527](https://github.com/user-attachments/assets/765956e1-1ade-4122-8926-c159d85bcbdd)
+
+
+## Future Enhancements
+-  Add backend integration with Express.js & MongoDB
+-  Implement task management and user authentication
+-  Mobile app version for better accessibility
+
+---
+# Happy Coding...!
