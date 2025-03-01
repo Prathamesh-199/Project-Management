@@ -12,8 +12,8 @@ body {
 /* Sidebar Styles */
 .sidebar {
   width: 250px;
-  background-color: #2c3e50;
-  color: white;
+  background-color: #162738;
+  color: rgb(255, 255, 255);
   padding: 20px;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .sidebar-menu li.active {
-  background-color: #34495e;
+  background-color: #477fbb;
   border-radius: 4px;
 }
 
@@ -51,8 +51,8 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  background-color: #ecf0f1;
-  border-bottom: 1px solid #bdc3c7;
+  background-color: #8dbce4;
+  border-bottom: 1px solid #f6f7f8;
 }
 
 .header-left h1 {
@@ -62,7 +62,7 @@ body {
 
 .header-right input {
   padding: 8px;
-  border: 1px solid #bdc3c7;
+  border: 1px solid #ebeeef;
   border-radius: 4px;
 }
 
@@ -71,7 +71,7 @@ body {
   padding: 8px 12px;
   border: none;
   background-color: #3498db;
-  color: white;
+  color: rgb(24, 2, 2);
   border-radius: 4px;
   cursor: pointer;
 }
