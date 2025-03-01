@@ -1,4 +1,4 @@
-# Project Management Tool (Frontend Only)
+# Project Management Tool 
 
 ## Introduction
 The **Project Management Tool** is a web-based frontend application built using **React.js** to provide a modern and visually appealing user interface for project management. At this time this version focuses only on the graphical user interface (GUI) without backend integration. But in future the backend & its connection will be done.
@@ -34,7 +34,7 @@ npm run dev
 ```
 
 ## Screenshots
-![Screenshot 2025-02-21 185527](https://github.com/user-attachments/assets/765956e1-1ade-4122-8926-c159d85bcbdd)
+![image](https://github.com/user-attachments/assets/ae8b0bea-fafb-4867-bb4e-7c0ab2f10087)
 
 
 ## Future Enhancements
